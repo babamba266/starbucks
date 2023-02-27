@@ -12,13 +12,22 @@
   
 #결론
 강의를 들으면서 모르는 부분을 알게되어서 좋았으며 내가 알고 있는 지식을 통해서 조금 더 수정과 보완을 해서 반응형으로 만들어볼예정이다.
+<br />
 
-#새롭게 알게 된 부분
-꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
+##목차  
+[1.오픈그래프(The Open Graph protocol)](#오픈-그래프(the-open-graph-protocol))  
+[2.트위터 카드(Twitter Cards)](#트위터-카드(Twitter-Cards))  
+[3.GSAP & ScrollToPlugin](#GSAP-&-ScrollToPlugin)  
+[4.Youtube API](#Youtube-API)  
+[5.ScrollMagic](#ScrollMagic)  
 
 ## 오픈 그래프(The Open Graph protocol)
 웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다.  
-
 KakaoTalk -
+
+## 트위터 카드(Twitter Cards)
+## GSAP & ScrollToPlugin
+## Youtube API
+## ScrollMagic
 
 
