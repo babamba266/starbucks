@@ -15,8 +15,8 @@
 <br />
 
 ## 목차  
-[1. 오픈그래프(The Open Graph protocol)](#1. 오픈-그래프(the-open-graph-protocol))  
-[2. 트위터 카드(Twitter Cards)](#2. 트위터-카드(twitter-cards))  
+[1. 오픈그래프(The Open Graph protocol)](#1.-오픈-그래프(the-open-graph-protocol))  
+[2. 트위터 카드(Twitter Cards)](#2.-트위터-카드(twitter-cards))  
 [3. GSAP & ScrollToPlugin](#3.-GSAP-&-ScrollToPlugin)  
 [4. Youtube API](#4.-Youtube-API)  
 [5. ScrollMagic](#5.-ScrollMagic)  
