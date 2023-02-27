@@ -15,11 +15,11 @@
 <br />
 
 ## 목차  
-[1. 오픈그래프(The Open Graph protocol)](#오픈-그래프(the-open-graph-protocol))  
-[2. 트위터 카드(Twitter Cards)](#트위터-카드(twitter-cards))  
-[3. GSAP & ScrollToPlugin](#3.-GSAP-&-ScrollToPlugin)  
-[4. Youtube API](#4.-Youtube-API)  
-[5. ScrollMagic](#5.-ScrollMagic)  
+1. [오픈그래프(The Open Graph protocol)](#오픈-그래프(the-open-graph-protocol))  
+2. [트위터 카드(Twitter Cards)](#트위터-카드(twitter-cards))  
+3. [GSAP & ScrollToPlugin](#GSAP-&-ScrollToPlugin)  
+4. [Youtube API](#youtube-api)  
+5. [ScrollMagic](#scrollmagic)  
 
 ## 1. 오픈 그래프(The Open Graph protocol)
 웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다.
