@@ -4,10 +4,10 @@
 강의를 통해 html, css, js로 메인화면, 로그인 스타벅스 랜딩 페이지(홈페이지)를 만드는 웹 페이지입니다. 
 <br />
 <br />
-[DEMO+signin](https://classy-dolphin-2c2c24.netlify.app/)  
+[DEMO+signin](https://dev-starbucks.netlify.app/)  
 
 
-![HEROPY](./img/logo.png)
+![스타벅스 메인이미지](/_assets/main_screenshot.PNG)
 
   
 #결론
@@ -16,8 +16,9 @@
 #새롭게 알게 된 부분
 꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
 
-#내용
-이 강의를 듣기 전에 국비지원으로 자바 6개월 과정을 수료했으며 그 이후 회사에서 1년간 퍼블리싱, 프론트엔드 업무를 하였다. 
+## 오픈 그래프(The Open Graph protocol)
+웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다.  
 
+KakaoTalk -
 
 
