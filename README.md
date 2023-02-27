@@ -4,7 +4,7 @@
 강의를 통해 html, css, js로 메인화면, 로그인 스타벅스 랜딩 페이지(홈페이지)를 만드는 웹 페이지입니다. 
 <br />
 <br />
-[DEMO+signin](https://classy-dolphin-2c2c24.netlify.app/)  
+[DEMO+signin](https://dev-starbucks.netlify.app/)  
 
 
 ![HEROPY](./img/logo.png)
