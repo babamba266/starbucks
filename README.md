@@ -6,6 +6,9 @@
 <br />
 [DEMO+signin](https://classy-dolphin-2c2c24.netlify.app/)  
 
+
+![HEROPY](./img/logo.png)
+
   
 #결론
 강의를 들으면서 모르는 부분을 알게되어서 좋았으며 내가 알고 있는 지식을 통해서 조금 더 수정과 보완을 해서 반응형으로 만들어볼예정이다.
