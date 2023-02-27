@@ -18,7 +18,7 @@
 1. [오픈그래프(The Open Graph protocol)](#오픈-그래프(the-open-graph-protocol))  
 2. [트위터 카드(Twitter Cards)](#트위터-카드(twitter-cards))  
 3. [GSAP & ScrollToPlugin](#gsap-&-scrolltoplugin)  
-4. [Youtube API](#4.-youtube-api)  
+4. [Youtube API](#4.youtube-api)  
 5. [ScrollMagic](#scrollmagic)  
 
 ## 1. 오픈 그래프(The Open Graph protocol)
@@ -85,7 +85,7 @@ gsap.to(window, .7, {
   scrollTo: 0
 });
 ```
-## 4. Youtube API
+## 4.Youtube API
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)를 통해 YouTube 동영상을 제어할 수 있습니다.
 
 유튜브 영상이 출력될 위치에 요소를 지정(생성)합니다.
