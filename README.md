@@ -125,7 +125,7 @@ function onYouTubePlayerAPIReady() {
   });
 }
 ```
-## 5. ScrollMagic
+## ScrollMagic
 ScrollMagic은 스크롤과 요소의 상호 작용을 위한 자바스크립트 라이브러리입니다.
 대표적으로 어떤 요소가 현재 화면에 보이는 상태인지를 확인할 때 사용합니다.
 
