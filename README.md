@@ -15,11 +15,11 @@
 <br />
 
 ## 목차  
-1. [오픈그래프(The Open Graph protocol)](#오픈-그래프(the-open-graph-protocol))  
-2. [트위터 카드(Twitter Cards)](#트위터-카드(twitter-cards))  
-3. [GSAP & ScrollToPlugin](#gsap-&-scrolltoplugin)  
+1. [오픈그래프(The Open Graph protocol)](#1-오픈-그래프(the-open-graph-protocol))  
+2. [트위터 카드(Twitter Cards)](#2-트위터-카드(twitter-cards))  
+3. [GSAP & ScrollToPlugin](#3-gsap-&-scrolltoplugin)  
 4. [Youtube API](#4-youtube-api)  
-5. [ScrollMagic](#scrollmagic)  
+5. [ScrollMagic](#5-scrollmagic)  
 
 ## 1. 오픈 그래프(The Open Graph protocol)
 웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다.
@@ -125,7 +125,7 @@ function onYouTubePlayerAPIReady() {
   });
 }
 ```
-## ScrollMagic
+## 5. ScrollMagic
 ScrollMagic은 스크롤과 요소의 상호 작용을 위한 자바스크립트 라이브러리입니다.
 대표적으로 어떤 요소가 현재 화면에 보이는 상태인지를 확인할 때 사용합니다.
 
